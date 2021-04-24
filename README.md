@@ -1,5 +1,5 @@
 # School_District_Analysis
-## Module 4 - Pandas and Jupyter Notebook
+## Pandas and Jupyter Notebook
 
 
 ## **Overview of the School District Analysis**
